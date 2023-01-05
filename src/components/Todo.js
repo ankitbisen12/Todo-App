@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import todologo from "../images/todologo.jfif";
-import "./Todo.css";
 
 const Todo = () => {
   //state variables
